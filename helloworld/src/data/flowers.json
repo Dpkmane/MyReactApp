@@ -1,0 +1,6 @@
+[
+    {"id":1,"imageurl":"/images/Rose.jpg","name":"Rose","price":50,"color":"Red","likes":5000},
+    {"id":2,"imageurl":"/images/carnation.jpg","name":"Carnation","price":150,"color":"pink","likes":1000},
+    {"id":3,"imageurl":"/images/lilly.jpg","name":"lilly","price":120,"color":"white","likes":9000}
+    
+]
